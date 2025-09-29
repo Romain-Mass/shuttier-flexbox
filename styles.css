@@ -1,6 +1,7 @@
 body {
 	background-color: #fba6ff;
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	color: white;
@@ -60,6 +61,12 @@ body {
 	border-radius: 15px;
 }
 img {
+	display: flex;
+	flex-direction: row;
+	justify-content: end;
+	align-items: end;
+}
+.box {
 	display: flex;
 	flex-direction: row;
 	justify-content: end;
