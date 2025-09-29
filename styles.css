@@ -1,0 +1,50 @@
+body {
+	background-color: #fba6ff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+}
+.boite1 {
+	background-color: black;
+	width: max-content;
+	border-radius: 6px;
+	padding: 50px;
+}
+.titre {
+	margin-bottom: 64px;
+}
+.boite2 {
+	background-color: #272727;
+	padding: 10px;
+	border-radius: 10px;
+	width: max-content;
+}
+.button {
+	display: flex;
+	flex-direction: row;
+	justify-content: end;
+	align-items: center;
+	margin-top: 10px;
+}
+.html {
+	display: flex;
+	flex-direction: row;
+	justify-content: end;
+	align-items: center;
+	margin-right: 30px;
+}
+.css {
+	display: flex;
+	flex-direction: row;
+	justify-content: end;
+	align-items: center;
+	margin-right: 20px;
+}
+.javascript {
+	display: flex;
+	flex-direction: row;
+	justify-content: end;
+	align-items: center;
+	margin-right: 5px;
+}
